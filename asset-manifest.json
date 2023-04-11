@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cuantohayqueponer/static/css/main.106aa780.css",
-    "main.js": "/cuantohayqueponer/static/js/main.ed7b1b0d.js",
+    "main.js": "/cuantohayqueponer/static/js/main.42fce387.js",
     "index.html": "/cuantohayqueponer/index.html",
     "main.106aa780.css.map": "/cuantohayqueponer/static/css/main.106aa780.css.map",
-    "main.ed7b1b0d.js.map": "/cuantohayqueponer/static/js/main.ed7b1b0d.js.map"
+    "main.42fce387.js.map": "/cuantohayqueponer/static/js/main.42fce387.js.map"
   },
   "entrypoints": [
     "static/css/main.106aa780.css",
-    "static/js/main.ed7b1b0d.js"
+    "static/js/main.42fce387.js"
   ]
 }
